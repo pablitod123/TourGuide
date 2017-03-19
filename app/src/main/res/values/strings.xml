@@ -1,3 +1,73 @@
 <resources>
     <string name="app_name">Tour Guide</string>
+
+    <!--Bars-->
+    <string name="bars_title_41_Street">41st Street Pub</string>
+    <string name="bars_title_Avondale">Avondale Brewing Company</string>
+    <string name="bars_title_Carrigans">Carrigan\'s Public House</string>
+    <string name="bars_title_Good_People">Good People Brewing Company</string>
+    <string name="bars_title_Lous">Lou’s Pub and Package Store</string>
+    <string name="bars_title_Octane">Octane Coffee</string>
+    <string name="bars_title_Paramount">Paramount</string>
+
+    <string name="bars_desc_41_Street">Try the signature Moscow Mule at this classic city pub in the blossoming Avondale neighborhood.</string>
+    <string name="bars_desc_Avondale">A sprawling backyard and live music stage set this brewery apart from the rest. Choose from one of six flagship beers or seasonal offerings.</string>
+    <string name="bars_desc_Carrigans">A gregarious crowd fills the outdoor patio and rooftop bar of this sprawling industrial space. The inventive cocktails incorporate curious ingredients—TY KU Coconut Sake, Icebox cold-brewed coffee, flamed orange (thankfully not all in one drink).</string>
+    <string name="bars_desc_Good_People">Located near Railroad Park in a former beer distribution warehouse and across from the minor league baseball stadium. Cornhole and other games in the industrial outdoor seating area.</string>
+    <string name="bars_desc_Lous">A liquor store and a classic bar that’s just the right kind of gritty, this watering hole was named one of the best bars by Esquire.</string>
+    <string name="bars_desc_Octane">Perfect cuppa joe in the morning and carefully crafted cocktails at night.</string>
+    <string name="bars_desc_Paramount">With an old-school arcade in the back, this kid-friendly bar serves up playful cocktails.</string>
+
+    <!--Museums-->
+    <string name="museums_title_Jazz">Alabama Jazz Hall of Fame</string>
+    <string name="museums_title_McWane">McWane Science Center</string>
+    <string name="museums_title_Flight">Southern Museum of Flight</string>
+    <string name="museums_title_Civil_Rights">Birmingham Civil Rights Institute</string>
+    <string name="museums_title_BMA">Birmingham Museum of Art</string>
+    <string name="museums_title_Motorsports">Barber Vintage Motorsports Museum</string>
+
+    <string name="museums_desc_Jazz">Housed in the restored Carver Theatre, the Jazz Hall of Fame features instruments and memorabilia of Alabama jazz greats. Legends such as Lionel Hampton, W.C. Handy and Nat \"King\" Cole are among some of the Alabama natives honored here."</string>
+    <string name="museums_desc_McWane">A hands-on science and learning center that has a focused mission to make the study of science exciting and to make technology more understandable. An IMAX theater with heart stopping shows is a popular feature, as are several colorful, living aquariums.</string>
+    <string name="museums_desc_Flight">Over 80 years of aviation history are highlighted for the aviation buff. Engines, models and memorabilia. Early aircraft include a Huff Daland crop duster, the first plane of Delta Airlines and a 1910 Curtis Pusher.</string>
+    <string name="museums_desc_Civil_Rights">This museum\'s galleries will lead you through the era of segregation and the Civil Rights Movement. Multimedia exhibitions depict dramatic events which took place in Birmingham and other cities.</string>
+    <string name="museums_desc_BMA">The museum boasts an excellent permanent collection of over 16,000 works, including impressive works from the Kress Collection of Renaissance paintings.</string>
+    <string name="museums_desc_Motorsports">Birmingham\'s most famous racetrack sports an astonishing collection of motorcycles through the ages. There\'s also a collection of racecars to enjoy.</string>
+
+
+    <!--Events-->
+    <string name="events_title_restaurant">Birmingham Restaurant Week</string>
+    <string name="events_title_symphony">Alabama Symphony Orchestra Sound Edge Festival</string>
+    <string name="events_title_grand_prix">Honda Indy Grand Prix of Alabama</string>
+    <string name="events_title_gumbo">Gumbo Gala</string>
+    <string name="events_title_do_da_day">Do Dah Day Festival</string>
+    <string name="events_title_bbq">Bob Sykes BBQ and Blues Festival</string>
+    <string name="events_title_sloss">Sloss Music and Arts Festival</string>
+    <string name="events_title_film">Sidewalk Film Festival</string>
+
+    <string name="events_desc_restaurant">A wide variety of participating restaurants offers fixed prices on meals throughout the week, giving foodies a chance to try out all sorts of new offerings.</string>
+    <string name="events_desc_symphony">The music scene like you have never seen.  Hear the cultural underground.  Sound Edge Festival brings together creative talents from the music and art industries for intense collaborations with the Alabama Symphony Orchestra.</string>
+    <string name="events_desc_grand_prix">The only Indy Series event in the Deep South, this motorsports event draws tens of thousands of race fans every year.</string>
+    <string name="events_desc_gumbo">This spicy event has grown into one of the city’s most popular cooking competitions. Proceeds benefit Episcopal Place, which provides affordable, independent living for seniors and disabled adults.</string>
+    <string name="events_desc_do_da_day">Benefitting animal rescue services, this is one of the city’s most wonderful and wacky events. Homemade floats and animals dressed in costume parade the streets of Highland Avenue.</string>
+    <string name="events_desc_bbq">Now in its eighth year, the festival takes place in the heart of downtown Bessemer, just west of Birmingham.</string>
+    <string name="events_desc_sloss">Music fans rock to nationally-known and regional alternative bands on three stages. Southern Living magazine calls this event “one of the iconic Southern festivals.</string>
+    <string name="events_desc_film">This showcase for independent film has gained wide notoriety in film and consumer publications for its tight organization, range of subject matter and good ol\’ weekend fun.</string>
+
+    <!--Restaurants-->
+    <string name="restaurants_title_ollie_irene">Ollie Irene</string>
+    <string name="restaurants_title_ovenbird">Ovenbird</string>
+    <string name="restaurants_title_highlands">Highlands Bar &amp; Grill</string>
+    <string name="restaurants_title_habitat">Habitat Feed &amp; Social</string>
+    <string name="restaurants_title_barrio">El Barrio Restaurante y Bar</string>
+    <string name="restaurants_title_revelator">Revelator Coffee</string>
+    <string name="restaurants_title_babalu">Babalu Tacos &amp; Tapas</string>
+
+    <string name="restaurants_desc_ollie_irene">Ask Birmingham\'s top toques where they like to go on their occasional night off, and Ollie Irene is sure to come up. Set in Mountain Brook, near Birmingham, this Beard-nominated gastropub offers new takes on the farm-style fare chef Chris Newsome\’s grandmother used to prepare.</string>
+    <string name="restaurants_desc_ovenbird">After 20 years of serving some of the most refined farm-to-table cuisine on the eastern seaboard, James Beard Award–winner chef Chris Hastings, chef-owner of renowned Hot &amp; Hot Fish Club, has expanded his Magic City footprint.</string>
+    <string name="restaurants_desc_highlands">Since 1982, mom-and-pop team Paradis and Beard-winning chef Frank Stitt have been attracting hoards of locals and traveling gourmands to their Five Points restaurant. For the past seven years, the place has been a finalist for Beard\'s \"Outstanding Restaurant\" award. "));</string>
+    <string name="restaurants_desc_habitat">Part of the brand-new Grand Bohemian Hotel Mountain Brook, this chic rooftop eatery is reminiscent of a modernized medieval castle. It offers an array of regional, seasonal fare prepared by executive chef Kirk Gilbert such as Alabama lamb rack with huckleberry-elderflower reduction as well as Gulf shrimp and diver scallops with celery root and Yukon gold potatoes, heirloom rainbow carrots and saffron lemongrass beurre fondue.</string>
+    <string name="restaurants_desc_barrio">This funky spot, located in Downtown’s up-and-coming Second Avenue North neighborhood, takes fare from across Mexico and gives it an American twist with locally sourced ingredients. Instead, the place offers interesting mash-ups and hybrids like grilled chorizo meatloaf and green pozole with slow-roasted pork, hominy, hatch chile, cilantro, tomatillo, marinated cabbage and cornbread.</string>
+    <string name="restaurants_desc_revelator">Birthed in New Orleans, raised in Downtown Birmingham, this chainlet of coffee shops is taking over the South. Similar to Portland-based Stumptown or San Francisco’s Blue Bottle, there are now crisp, minimalist storefronts popping across the region with newly opened locations in Atlanta, Chattanooga and Nashville.</string>
+    <string name="restaurants_desc_babalu">Babalu is the taco joint that’s taking over the area under the Mason-Dixon line. After receiving rave reviews in Jackson, Mississippi, and Memphis, the company jumped into the Magic City with a modern location in the Lakeview district. With indoor and outdoor seating, the place serves hormone-free proteins and craft cocktails in comfortable surrounds.</string>
+
 </resources>

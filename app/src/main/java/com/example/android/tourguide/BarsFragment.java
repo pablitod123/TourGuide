@@ -30,13 +30,13 @@ public class BarsFragment extends Fragment {
 
         //information copied from http://www.southernliving.com/travel/city-guide/birmingham/bars
         final ArrayList<Attraction> bars = new ArrayList<Attraction>();
-        bars.add(new Attraction("41st Street Pub","Try the signature Moscow Mule at this classic city pub in the blossoming Avondale neighborhood."));
-        bars.add(new Attraction("Avondale Brewing Company","A sprawling backyard and live music stage set this brewery apart from the rest. Choose from one of six flagship beers or seasonal offerings."));
-        bars.add(new Attraction("Carrigan's Public House","A gregarious crowd fills the outdoor patio and rooftop bar of this sprawling industrial space. The inventive cocktails incorporate curious ingredients—TY KU Coconut Sake, Icebox cold-brewed coffee, flamed orange (thankfully not all in one drink)."));
-        bars.add(new Attraction("Good People Brewing Company","Located near Railroad Park in a former beer distribution warehouse and across from the minor league baseball stadium. Cornhole and other games in the industrial outdoor seating area."));
-        bars.add(new Attraction("Lou’s Pub & Package Store","A liquor store and a classic bar that’s just the right kind of gritty, this watering hole was named one of the best bars by Esquire."));
-        bars.add(new Attraction("Octane Coffee","Perfect cuppa joe in the morning and carefully crafted cocktails at night."));
-        bars.add(new Attraction("Paramount","With an old-school arcade in the back, this kid-friendly bar serves up playful cocktails."));
+        bars.add(new Attraction(getString(R.string.bars_title_41_Street), getString(R.string.bars_desc_41_Street)));
+        bars.add(new Attraction(getString(R.string.bars_title_Avondale), getString(R.string.bars_desc_Avondale)));
+        bars.add(new Attraction(getString(R.string.bars_title_Carrigans), getString(R.string.bars_desc_Carrigans)));
+        bars.add(new Attraction(getString(R.string.bars_title_Good_People), getString(R.string.bars_desc_Good_People)));
+        bars.add(new Attraction(getString(R.string.bars_title_Lous), getString(R.string.bars_desc_Lous)));
+        bars.add(new Attraction(getString(R.string.bars_title_Octane), getString(R.string.bars_desc_Octane)));
+        bars.add(new Attraction(getString(R.string.bars_title_Paramount), getString(R.string.bars_desc_Paramount)));
 
 
         AttractionAdapter adapter = new AttractionAdapter(getActivity(), bars, R.color.bars_color);
